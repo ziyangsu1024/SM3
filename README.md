@@ -1,6 +1,8 @@
 # SM3
 sm3 encryption algorithm
+
 一、小组成员及github账号名称
+
 郎舒仪     wangwangxiaoxiaosul        
 葛菲       ziyangsu1024
 
