@@ -39,7 +39,8 @@ D.每个人的具体贡献说明及贡献排序(复制的代码需要标出引�
 运行仓库中的enc_sm3.py文件，其中输入为任意十六进制字符串，输出结果为256比特的杂凑值。
 
 （3）结果截图
-![SM3加密]( https://github.com/ziyangsu1024/SM3/blob/main/1.png)
+
+![SM3加密]( https://github.com/ziyangsu1024/SM3/blob/main/1.png).<img src="https://github.com/Legend-yd/MyDawn/blob/master/20171223205540585.png" width="300" height="150" />
 
 （4）贡献说明：葛菲
 
@@ -55,10 +56,11 @@ D.每个人的具体贡献说明及贡献排序(复制的代码需要标出引�
 运行仓库里的sm3lengthattack.py文件，其中会调用store和store1两个库。最后会输出结果是否攻击成功。
 
 (3)结果截图
-![SM3加密]( https://github.com/ziyangsu1024/SM3/blob/main/2.png)
+
+![SM3长度扩展攻击]( https://github.com/ziyangsu1024/SM3/blob/main/2.png)
  
-(4)贡献说明： 长度扩展攻击部分：郎舒仪
-        加密部分：葛菲
+(4)贡献说明：郎舒仪
+           
               
 
 3、merkletree实现
@@ -71,7 +73,8 @@ D.每个人的具体贡献说明及贡献排序(复制的代码需要标出引�
 （2）运行指导：运行仓库中的merkletree.py文件即可，代码中传入了具体的明文，输出结果为最后proof和树高。
 
 （3）结果截图：
- ![SM3加密]( https://github.com/ziyangsu1024/SM3/blob/main/3.png)
+ 
+ ![merkletree实现]( https://github.com/ziyangsu1024/SM3/blob/main/3.png)
  
 （4）贡献者：郎舒仪
 
@@ -84,7 +87,8 @@ D.每个人的具体贡献说明及贡献排序(复制的代码需要标出引�
 （2）运行指导：运行仓库中的pollard-s-rho.py文件，会显示输入一个p，随即输入一个大数，输出一个因子列表。
 
 （3）结果截图：
-![SM3加密]( https://github.com/ziyangsu1024/SM3/blob/main/4.png)
+
+![pollardrho实现]( https://github.com/ziyangsu1024/SM3/blob/main/4.png)
 
  
 （4）贡献者：葛菲  郎舒仪
