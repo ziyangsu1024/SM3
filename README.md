@@ -40,7 +40,7 @@ D.每个人的具体贡献说明及贡献排序(复制的代码需要标出引�
 
 （3）结果截图
 
-![SM3加密]( https://github.com/ziyangsu1024/SM3/blob/main/1.png).<img src="https://github.com/Legend-yd/MyDawn/blob/master/20171223205540585.png" width="300" height="150" />
+![SM3加密]( https://github.com/ziyangsu1024/SM3/blob/main/1.png).<img src="https://github.com/ziyangsu1024/SM3/blob/main/1.png" width="1000" height="120" />
 
 （4）贡献说明：葛菲
 
