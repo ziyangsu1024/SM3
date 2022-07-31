@@ -40,7 +40,7 @@ D.每个人的具体贡献说明及贡献排序(复制的代码需要标出引�
 
 （3）结果截图
 
-![SM3加密].<img src="https://github.com/ziyangsu1024/SM3/blob/main/1.png" width="1000" height="120" />
+<img src="https://github.com/ziyangsu1024/SM3/blob/main/1.png" width="1000" height="120" />
 
 （4）贡献说明：葛菲
 
@@ -57,7 +57,7 @@ D.每个人的具体贡献说明及贡献排序(复制的代码需要标出引�
 
 (3)结果截图
 
-![SM3长度扩展攻击]( https://github.com/ziyangsu1024/SM3/blob/main/2.png)
+<img src="https://github.com/ziyangsu1024/SM3/blob/main/2.png" width="1000" height="120" />
  
 (4)贡献说明：郎舒仪
            
@@ -74,8 +74,8 @@ D.每个人的具体贡献说明及贡献排序(复制的代码需要标出引�
 
 （3）结果截图：
  
- ![merkletree实现]( https://github.com/ziyangsu1024/SM3/blob/main/3.png)
- 
+<img src="https://github.com/ziyangsu1024/SM3/blob/main/3.png" width="1000" height="120" /> 
+
 （4）贡献者：郎舒仪
 
 4、pollard-s-rho实现
@@ -88,8 +88,7 @@ D.每个人的具体贡献说明及贡献排序(复制的代码需要标出引�
 
 （3）结果截图：
 
-![pollardrho实现]( https://github.com/ziyangsu1024/SM3/blob/main/4.png)
-
+<img src="https://github.com/ziyangsu1024/SM3/blob/main/4.png" width="1000" height="120" />
  
 （4）贡献者：葛菲  郎舒仪
 
