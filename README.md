@@ -1,5 +1,4 @@
-# SM3
-sm3 encryption algorithm
+# 创新创业实践课完成项目
 
 一、小组成员及github账号名称
 
