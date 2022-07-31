@@ -57,7 +57,7 @@ D.每个人的具体贡献说明及贡献排序(复制的代码需要标出引�
 
 (3)结果截图
 
-<img src="https://github.com/ziyangsu1024/SM3/blob/main/2.png" width="800" height="200" />
+<img src="https://github.com/ziyangsu1024/SM3/blob/main/2.png" width="600" height="180" />
  
 (4)贡献说明：郎舒仪
            
@@ -88,7 +88,7 @@ D.每个人的具体贡献说明及贡献排序(复制的代码需要标出引�
 
 （3）结果截图：
 
-<img src="https://github.com/ziyangsu1024/SM3/blob/main/4.png" width="800" height="200" />
+<img src="https://github.com/ziyangsu1024/SM3/blob/main/4.png" width="600" height="180" />
  
 （4）贡献者：葛菲  郎舒仪
 
